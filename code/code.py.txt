@@ -1,1 +1,4 @@
 print("Hello world")
+
+def func_dummy():
+	return 2*2
